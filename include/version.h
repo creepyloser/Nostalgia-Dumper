@@ -1,0 +1,12 @@
+#pragma once
+
+#define NOSTALGIA_VERSION_MAJOR 1
+#define NOSTALGIA_VERSION_MINOR 9
+#define NOSTALGIA_VERSION_PATCH 0
+
+#define NOSTALGIA_VERSION_STR "1.9.0"
+#define NOSTALGIA_TITLE "Nostalgia Dumper"
+#define NOSTALGIA_AUTHOR "Production Build"
+
+#define NOSTALGIA_BUILD_DATE __DATE__
+#define NOSTALGIA_BUILD_TIME __TIME__
